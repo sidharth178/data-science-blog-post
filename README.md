@@ -5,6 +5,16 @@
 This is the link of the blog post i have written in medium 
 https://medium.com/@sidharth.ku178/seattle-airbnb-listings-analysis-29e72a2d11ad
 
+### Used Libraries in this project
+
+1. Sklearn
+2. Numpy
+3. matplotlib.pyplot
+4. Pandas
+5. Collections
+6. Seaborn
+
+
 ### Project Motivation
 
 This project is the first project of data scientists nanodegree program which is offered by udacity.
