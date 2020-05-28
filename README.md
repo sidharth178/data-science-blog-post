@@ -13,10 +13,13 @@ This dataset describes listing  activities of homestays in Seattle.All the datas
 
 
 This project mainly aim to answering following questions:
+
 question 1:
    “What is common amenitie in listings?”
+   
 question 2:
    "What are the impacts of listing's proximity to Seattle Downtown"
+   
 question 3:
    "What attracts the guests most for renting a property?"
 
